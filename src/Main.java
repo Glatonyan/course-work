@@ -5,14 +5,14 @@ public class Main {
     public static void main(String[] args) {
         employees[0] = new Employee("Соловьёв Эдуард Александрович", 57_000, 4);
         employees[1] = new Employee("Соловьёва Ирина Леонидовна", 63_000, 4);
-        employees[2] = new Employee("Соловьёва Алеся вечаславовна", 78_000, 3);
+        employees[2] = new Employee("Соловьёва Олеся Вячеславовна", 78_000, 3);
         employees[3] = new Employee("Сотников Иван Робертович", 90_000, 5);
         employees[4] = new Employee("Кличко Роман Алексеевич", 77_777, 6);
-        employees[5] = new Employee("Горяев Дмитрий эдуардович", 50_000, 1);
+        employees[5] = new Employee("Горяев Дмитрий Эдуардович", 50_000, 1);
         employees[6] = new Employee("Кленова Алёна Сергеевна", 66_666, 6);
         employees[7] = new Employee("Зеленова Мария Александровна", 99_999, 3);
         employees[8] = new Employee("Богатырёва Ксения Романовна", 88_900, 2);
-        employees[9] = new Employee("Иванов Михаил Степанов", 55_500, 1);
+        employees[9] = new Employee("Иванов Михаил Степанович", 55_500, 1);
 
      printEmployee();
      printFullNameEmployee();
